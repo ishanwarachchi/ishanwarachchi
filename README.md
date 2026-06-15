@@ -155,7 +155,7 @@ Outside of coding, you'll find me exploring emerging technologies, contributing 
 <div align="cen">
 
 <a href="https://facebook.com/pubuduishandigital"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white"/></a>
-<a href="https://bsky.app/profile/pubuduishandigital.bsky.social"><img src="https://img.shields.io/badge/BlueSky-0285FF?logo=bluesky&logoColor=white"/></a>
+<a href="https://bsky.app/profile/pubuduishan.com"><img src="https://img.shields.io/badge/BlueSky-0285FF?logo=bluesky&logoColor=white"/></a>
 <a href="https://twitter.com/pubuduishandigi"><img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white"/></a>
 <a href="https://instagram.com/pubuduishandigital"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/></a>
 <a href="https://threads.com/pubuduishandigital"><img src="https://img.shields.io/badge/Threads-000000?logo=threads&logoColor=white"/></a>
