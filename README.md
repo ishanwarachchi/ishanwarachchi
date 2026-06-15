@@ -86,14 +86,14 @@ Outside of coding, you'll find me exploring emerging technologies, contributing 
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=pubuduishandev&color=0F172A&style=flat-square)
-[![GitHub Followers](https://img.shields.io/github/followers/pubuduishandev?style=flat-square&color=0F172A)](https://github.com/pubuduishandev)
-[![GitHub Stars](https://img.shields.io/github/stars/pubuduishandev?style=flat-square&color=0F172A)](https://github.com/pubuduishandev)
-[![Total Commits](https://img.shields.io/badge/Total%20Commits-1000+-blueviolet?style=flat-square&color=0F172A)](https://github.com/pubuduishandev)
-[![Public Repos](https://img.shields.io/badge/Public%20Repos-15+-blueviolet?style=flat-square&color=0F172A)](https://github.com/pubuduishandev?tab=repositories)
-[![Years Active](https://img.shields.io/badge/Years%20Active-3+-blueviolet?style=flat-square&color=0F172A)](https://github.com/pubuduishandev)
-[![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-50K+-blueviolet?style=flat-square&color=0F172A)](https://github.com/pubuduishandev)
-[![GitHub forks](https://img.shields.io/github/forks/pubuduishandev/Currents?style=flat-square&color=0F172A)](https://github.com/pubuduishandev)
+![Profile Views](https://komarev.com/ghpvc/?username=pubuduishan&color=0F172A&style=flat-square)
+[![GitHub Followers](https://img.shields.io/github/followers/pubuduishan?style=flat-square&color=0F172A)](https://github.com/pubuduishan)
+[![GitHub Stars](https://img.shields.io/github/stars/pubuduishan?style=flat-square&color=0F172A)](https://github.com/pubuduishan)
+[![Total Commits](https://img.shields.io/badge/Total%20Commits-1000+-blueviolet?style=flat-square&color=0F172A)](https://github.com/pubuduishan)
+[![Public Repos](https://img.shields.io/badge/Public%20Repos-15+-blueviolet?style=flat-square&color=0F172A)](https://github.com/pubuduishan?tab=repositories)
+[![Years Active](https://img.shields.io/badge/Years%20Active-3+-blueviolet?style=flat-square&color=0F172A)](https://github.com/pubuduishan)
+[![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-50K+-blueviolet?style=flat-square&color=0F172A)](https://github.com/pubuduishan)
+[![GitHub forks](https://img.shields.io/github/forks/pubuduishan/Currents?style=flat-square&color=0F172A)](https://github.com/pubuduishan)
 
 </div>
 
