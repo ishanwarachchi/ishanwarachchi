@@ -102,7 +102,7 @@ Outside of coding, you'll find me exploring emerging technologies, contributing 
 ### 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pubuduishandev&theme=algolia&column=3&margin-w=15&margin-h=15&no-frame=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=pubuduishan&theme=algolia&column=3&margin-w=15&margin-h=15&no-frame=true"/>
 </div>
 
 ---
@@ -110,15 +110,15 @@ Outside of coding, you'll find me exploring emerging technologies, contributing 
 ### 📈 Performance Overview
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pubuduishandev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pubuduishan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pubuduishandev&layout=compact&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pubuduishan&layout=compact&theme=algolia"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=pubuduishandev&theme=algolia&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=pubuduishan&theme=algolia&hide_border=true"/>
 </div>
 
 ---
@@ -126,7 +126,7 @@ Outside of coding, you'll find me exploring emerging technologies, contributing 
 ### 🔥 Coding Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pubuduishandev&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pubuduishan&theme=github-dark&hide_border=true" />
 </div>
 
 ---
@@ -137,16 +137,16 @@ Outside of coding, you'll find me exploring emerging technologies, contributing 
 
 <div align="left">
 
-<a href="https://linkedin.com/in/pubuduishandigital"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/></a>
-<a href="https://stackoverflow.com/users/pubuduishandev"><img src="https://img.shields.io/badge/StackOverflow-F58025?logo=stackoverflow&logoColor=white"/></a>
-<a href="https://github.com/pubuduishandev"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/></a>
-<a href="https://leetcode.com/pubuduishandev"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black"/></a>
-<a href="https://hackerrank.com/pubuduishandev"><img src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white"/></a>
+<a href="https://linkedin.com/in/pubuduishan"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/></a>
+<a href="https://stackoverflow.com/users/pubuduish"><img src="https://img.shields.io/badge/StackOverflow-F58025?logo=stackoverflow&logoColor=white"/></a>
+<a href="https://github.com/pubuduishan"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/></a>
+<a href="https://leetcode.com/pubuduishan"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black"/></a>
+<a href="https://hackerrank.com/pubuduishan"><img src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white"/></a>
 <a href="https://kaggle.com/pubuduishan"><img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white"/></a>
-<a href="https://medium.com/@pubuduishandigital"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white"/></a>
-<a href="https://dev.to/pubuduishandev"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?logo=devdotto&logoColor=white"/></a>
-<a href="https://app.daily.dev/pubuduishandev"><img src="https://img.shields.io/badge/daily.dev-000000?logo=daily-dot-dev&logoColor=white"/></a>
-<a href="https://google.dev/u/pubuduishandev"><img src="https://img.shields.io/badge/Google%20Dev-4285F4?logo=google&logoColor=white"/></a>
+<a href="https://pubuduishan.medium.com"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white"/></a>
+<a href="https://dev.to/pubuduishan"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?logo=devdotto&logoColor=white"/></a>
+<a href="https://app.daily.dev/pubuduishan"><img src="https://img.shields.io/badge/daily.dev-000000?logo=daily-dot-dev&logoColor=white"/></a>
+<a href="https://google.dev/u/pubuduishan"><img src="https://img.shields.io/badge/Google%20Dev-4285F4?logo=google&logoColor=white"/></a>
 
 </div>
 
