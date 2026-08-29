@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Pubudu Ishan Wickrama Arachchi
+# 👋 Hi, I'm Ishan Wickramaarachchi
 
 > **Owner & Founder of FlickBox Technologies | Software Engineer at LAUGFS Holdings Limited**  
 > *Building digital experiences that solve real problems*
